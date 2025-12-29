@@ -45,3 +45,8 @@ This tool models a simplified version of a financial loan assessment used in bas
 3. In your terminal or command prompt, run:
    ```bash
    python main.py
+
+## Context
+
+This project was developed as part of a **Business Analytics course** and focuses on applying financial decision rules through programming.
+
